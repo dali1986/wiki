@@ -79,6 +79,7 @@
 * [Metaorg](https://www.metaorg.one/) – Self Aware Network Organism
 * [Abie](http://abie.fund) – minimalist DAO that includes a Sybil-resistant voting system based on liquid democracy
 * [Ellcrys](https://ellcrys.org/) – helps you start, co-own and contribute to open source software products and organizations
+* [eosDAC][https://eosdac.io] - The original DAC project on the EOS Mainnet and multiple other eosio chains - community owned block producer and DAC enabler through the development of the DAC Factory. 
 
 ### Bounties & Donations
 
